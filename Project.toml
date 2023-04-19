@@ -1,0 +1,15 @@
+name = "Newapp"
+uuid = "7019cfa5-53bb-49aa-9b68-7080aaab0ded"
+authors = ["Markus Petters <mdpetter@ncsu.edu>"]
+version = "0.1.0"
+
+[deps]
+Chain = "8be319e6-bccf-4806-a6f7-6fae938471bc"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Gadfly = "c91e804a-d5a3-530f-b6f0-dfbca275c004"
+Genie = "c43c736e-a2d1-11e8-161f-af95117fbd1e"
+Inflector = "6d011eab-0732-4556-8808-e463c76bf3b6"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Stipple = "4acbeb90-81a0-11ea-1966-bdaff8155998"
+StippleUI = "a3c5d34a-b254-4859-a8fa-b86abb7e84a3"
